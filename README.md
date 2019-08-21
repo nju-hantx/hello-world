@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi,friends!
+
+Welcome to my code world, I am TxHan.Let's improve us together!
